@@ -1,6 +1,4 @@
-# (c) Mantapjozz silahkan edit isi disini sesuai kemauan
-
-module.exports.bothelp = `Yoo, Guwe botnya Mantapjozz Channel. Untuk Join Group Vip PPV silahkan cek list dibawah.`;
+module.exports.bothelp = `Yoo, Guwe botnya Mantapjozz Channel. Untuk Join Group Vip PPV silahkan cek list dibawah. dan untuk owner Bot ini silahkan edit tulisan ini semua sesuai keinginan pada File help.js`;
 
 module.exports.botcommand = `<u>Berikut adalah beberapa perintah dan penggunaan admin.</u>
 \n\n<b>Kegunaan Nomor US untuk agar dapat mengakses Group/Channel Yang di banned dari Nomor indo.</b>
