@@ -41,7 +41,7 @@ module.exports.botinstall = `<u>List Join Group Vip PPV / Full Genre Indo, asian
 module.exports.botorder = `<u>Suka sama BOT gini ? mau punya yang sama gini ?</u>
 \nKuy langsung Chat admin untuk Order ataupun untuk source Gratisnya.
 \n================
-\nUntuk Source Gratisnya Bisa Langsung Visit Link Ini : <a href="">Softmilk</a>
+\nUntuk Source Gratisnya Bisa Langsung Visit Link Ini : <a href="https://github.com/softmilkpc/MantapjozzSaverGroup">Softmilk Source</a>
 \nKalau Mau tinggal beres langsung chat admin.
 \n================
 \nOrder Bot silahkan chat admin👇
