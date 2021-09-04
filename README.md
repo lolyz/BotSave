@@ -19,8 +19,8 @@
 
 <h1>Berikut adalah beberapa perintah dan penggunaan admin.</h1>
 
-Upload File Album pada BOT.
-<code> untuk upload Album video pada bot, langsung saja upload 10 video sekaligus pada bot dan automatis bot akan memberikan link video secara group.
+Upload File Album pada BOT.</br>
+<code> untuk upload Album video pada bot, langsung saja upload 10 video sekaligus pada bot dan automatis bot akan memberikan link video secara group.</code></br>
 
     Bagaimana pengguna melarang, unban dan kick dari BOT dan Grup.
 
