@@ -4,8 +4,9 @@
    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
  </a>
  
- #Tutorial
-ADMIN             : isikan id admin ex. 1121192
+# Tutorial
+"ADMIN             ":{
+            "description": "isikan id admin ex. 1121192",
 BOTUSERNAME       : masukkan username bot tanpa "@", ex. mantapjozzgroupbot
 CAPTIONLINK       : isikan caption yang akan di isi pada file / video
 CHANNELJOIN       : Masukkan ID channel atau grup untuk identifikasi BOT bisa membaca pengguna yang masuk/forcesub
