@@ -4,7 +4,7 @@
    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
  </a>
  <br>
-<h1><b>Tutorial></b></h1> </br>
+<h1><b>Tutorial</b></h1> </br>
 <code>ADMIN             :</code> isikan id admin ex. 1121192 </br>
 <code>BOTUSERNAME       :</code> masukkan username bot tanpa "@", ex. mantapjozzgroupbot </br>
 <code>CAPTIONLINK       :</code> isikan caption yang akan di isi pada file / video </br>
