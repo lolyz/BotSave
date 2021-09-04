@@ -1,3 +1,5 @@
+# (c) Mantapjozz silahkan edit isi disini sesuai kemauan
+
 module.exports.bothelp = `Yoo, Guwe botnya Mantapjozz Channel. Untuk Join Group Vip PPV silahkan cek list dibawah.`;
 
 module.exports.botcommand = `<u>Berikut adalah beberapa perintah dan penggunaan admin.</u>
