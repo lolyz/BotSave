@@ -1,39 +1,37 @@
 {
-	"name": "MantapjozzGroup",
-	"description": "MantapjozzGroup",
-	"repository": "https://github.com/madloyer/mantapjozzGroup",
+	"name": "MantapSaverGroup",
+	"description": "MantapSaverGroup",
+	"repository": "https://github.com/softmilkpc/MantapjozzSaverGroup",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg",
 	"keywords": ["telegram","filesaver","bot","nodejs"],
 		"env": {
 		"TOKEN": {
                          "description": "Token bot disediakan oleh  @botfather",
-                "value":"1938822077:AAEs2azt9qMmhmxQL2gmci-OQqEDZhjiU7I"
+                "value":""
 	        },
         "DOMAIN":{
             "description": "Masukkan nama aplikasi Anda",
-            "value": "mantapjozzgroup"
+            "value": ""
 	       },
         "DB_URL":{
             "description": "Dapatkan url basis data mongodb dari https://www.mongodb.com/cloud/atlas with database name = mediaFile and collection name = fileBackup",
-            "value":"mongodb+srv://mantapjozz:mantapvids@cluster0.cncam.mongodb.net/MantapFileMediaDB?retryWrites=true&w=majority"
+            "value":" "
                },
         "ADMIN":{
             "description": "Masukkan id akun kamu",
-            "value":"1095175345
-1281619082
-1359778030"
+            "value":""
         },
         "BOTUSERNAME":{
             "description": "Masukkan nama pengguna bot Anda tanpa @ dan harus huruf kecil",
-            "value":"mantapjozzgroupbot"
+            "value":""
         },
         "LOG_CHANNEL":{
             "description": "Buat saluran pribadi dan masukkan id saluran untuk memantau file dan mendapatkan data pengguna dan file",
-            "value":"-1001531007267"
+            "value":""
         },
         "CAPTIONLINK":{
             "description": "Caption ketika link media yang dikirim di tekan",
-            "value":"<b>Join Ke channel kami dibawah :<b>\nChannel Utama : @mantapvids
+            "value":"<b>Join Ke channel kami dibawah :</b>\nChannel Utama : @mantapvids
 Channel Storage : @mantapfilestorage"
         },
         "WELCOMEJOINBOT":{
@@ -46,7 +44,7 @@ Channel Storage : @mantapfilestorage"
         },
         "CHANNELJOIN":{
             "description": "Masukkan ID channel grup untuk identifikasi BOT bisa membaca pengguna yang masuk",
-            "value":"-1001165054009"
+            "value":""
         },
         "LINKCHANNEL":{
             "description": "Link channel grup masukkan disini dan ikuti format penulisan",
