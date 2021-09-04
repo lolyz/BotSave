@@ -1,5 +1,5 @@
 module.exports={
-    FILE_COLLECTION : 'MantapjozzfileArea',
+    FILE_COLLECTION : 'Mantapjozzsaver',
     USER_COLLECTION : 'user',
     BANNED_COLLECTION :'banned',
     GROUP_COLLECTION :'group'
