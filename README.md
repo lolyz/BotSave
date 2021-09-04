@@ -5,18 +5,17 @@
  </a>
  <br>
 # Tutorial
-<code>ADMIN             :</code>{
-            "description": "isikan id admin ex. 1121192",
-<code>BOTUSERNAME       :</code> masukkan username bot tanpa "@", ex. mantapjozzgroupbot
-<code>CAPTIONLINK       : isikan caption yang akan di isi pada file / video
-<code>CHANNELJOIN       : Masukkan ID channel atau grup untuk identifikasi BOT bisa membaca pengguna yang masuk/forcesub
-<code>DB_URL            : Dapatkan url basis data mongodb dari https://www.mongodb.com/cloud/atlas with database name = MantapFileMediaDB and collection name = Mantapjozzsaver
-<code>DOMAIN            : Masukkan nama aplikasi Anda sesuai nama app heroku saja ex. mantapjozzgroup
-<code>LINKCHANNEL       : Link channel grup masukkan disini dan ikuti format penulisan ex. Gabung-https://t.me/mantapvids
-<code>LOG_CHANNEL       : Buat saluran pribadi dan masukkan id saluran untuk memantau file dan mendapatkan data pengguna dan file alias channel DB
-<code>MESSAGEWELCOMEBOT : Masukkan pesan untuk pengguna yang belum bergabung channel
-<code>TOKEN             : Token bot disediakan oleh  @botfather
-<code>WELCOMEJOINBOT    : Masukkan pesan untuk pengguna setelah bergabung
+<code>ADMIN             :</code> isikan id admin ex. 1121192 <br>
+<code>BOTUSERNAME       :</code> masukkan username bot tanpa "@", ex. mantapjozzgroupbot <br>
+<code>CAPTIONLINK       :</code> isikan caption yang akan di isi pada file / video <br>
+<code>CHANNELJOIN       :</code> Masukkan ID channel atau grup untuk identifikasi BOT bisa membaca pengguna yang masuk/forcesub <br>
+<code>DB_URL            :</code> Dapatkan url basis data mongodb dari https://www.mongodb.com/cloud/atlas with database name = MantapFileMediaDB and collection name = Mantapjozzsaver <br>
+<code>DOMAIN            :</code> Masukkan nama aplikasi Anda sesuai nama app heroku saja ex. mantapjozzgroup <br>
+<code>LINKCHANNEL       :</code> Link channel grup masukkan disini dan ikuti format penulisan ex. Gabung-https://t.me/mantapvids <br>
+<code>LOG_CHANNEL       :</code> Buat saluran pribadi dan masukkan id saluran untuk memantau file dan mendapatkan data pengguna dan file alias channel DB <br>
+<code>MESSAGEWELCOMEBOT :</code> Masukkan pesan untuk pengguna yang belum bergabung channel <br>
+<code>TOKEN             :</code> Token bot disediakan oleh  @botfather <br>
+<code>WELCOMEJOINBOT    :</code> Masukkan pesan untuk pengguna setelah bergabung <br>
 
 </a>
 <br>
