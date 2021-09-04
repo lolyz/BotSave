@@ -1,0 +1,63 @@
+{
+	"name": "MantapjozzGroup",
+	"description": "MantapjozzGroup",
+	"repository": "https://github.com/madloyer/mantapjozzGroup",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg",
+	"keywords": ["telegram","filesaver","bot","nodejs"],
+		"env": {
+		"TOKEN": {
+                         "description": "Token bot disediakan oleh  @botfather",
+                "value":"1938822077:AAEs2azt9qMmhmxQL2gmci-OQqEDZhjiU7I"
+	        },
+        "DOMAIN":{
+            "description": "Masukkan nama aplikasi Anda",
+            "value": "mantapjozzgroup"
+	       },
+        "DB_URL":{
+            "description": "Dapatkan url basis data mongodb dari https://www.mongodb.com/cloud/atlas with database name = mediaFile and collection name = fileBackup",
+            "value":"mongodb+srv://mantapjozz:mantapvids@cluster0.cncam.mongodb.net/MantapFileMediaDB?retryWrites=true&w=majority"
+               },
+        "ADMIN":{
+            "description": "Masukkan id akun kamu",
+            "value":"1095175345
+1281619082
+1359778030"
+        },
+        "BOTUSERNAME":{
+            "description": "Masukkan nama pengguna bot Anda tanpa @ dan harus huruf kecil",
+            "value":"mantapjozzgroupbot"
+        },
+        "LOG_CHANNEL":{
+            "description": "Buat saluran pribadi dan masukkan id saluran untuk memantau file dan mendapatkan data pengguna dan file",
+            "value":"-1001531007267"
+        },
+        "CAPTIONLINK":{
+            "description": "Caption ketika link media yang dikirim di tekan",
+            "value":"<b>Join Ke channel kami dibawah :<b>\nChannel Utama : @mantapvids
+Channel Storage : @mantapfilestorage"
+        },
+        "WELCOMEJOINBOT":{
+            "description": "Masukkan pesan sebelum pengguna bergabung",
+            "value":"Kamu Harus Join Channel Atau Group Terlebih Dahulu Lalu Tekan <a href= >Coba Lagi</a>"
+        },
+        "MESSAGEWELCOMEBOT":{
+            "description": "Masukkan pesan selamat datang ketika pengguna bergabung",
+            "value":"Download File Full <a href="https://t.me/mantapvids">Di sini</a>"
+        },
+        "CHANNELJOIN":{
+            "description": "Masukkan ID channel grup untuk identifikasi BOT bisa membaca pengguna yang masuk",
+            "value":"-1001165054009"
+        },
+        "LINKCHANNEL":{
+            "description": "Link channel grup masukkan disini dan ikuti format penulisan",
+            "value":"Gabung Channel-https://t.me/mantapvids"
+        }
+        
+        	
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/nodejs"
+		}
+	]
+}
