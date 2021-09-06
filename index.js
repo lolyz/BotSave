@@ -294,7 +294,7 @@ bot.start(async(ctx)=>{
     }
 })
 
-//DEFINING POP CALLBACK
+//DEFINING Pop CALLBACK
 bot.action('POP',(ctx)=>{
     ctx.deleteMessage()
     ctx.reply(`${messagelink(ctx)}`,{
