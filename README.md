@@ -7,7 +7,7 @@
 <h1><b>Tutorial</b></h1> </br>
 <code>ADMIN             :</code> isikan id admin ex. 1121192 </br>
 <code>BOTUSERNAME       :</code> masukkan username bot tanpa "@", ex. mantapjozzgroupbot </br>
-<code>CAPTIONLINK       :</code> isikan caption yang akan di isi pada file / video </br>
+<code>CAPTIONLINK       :</code> isikan caption yang ingin ditulis pada file / video </br>
 <code>CHANNELJOIN       :</code> Masukkan ID channel atau grup untuk identifikasi BOT bisa membaca pengguna yang masuk/forcesub </br>
 <code>DB_URL            :</code> Dapatkan url basis data mongodb dari https://www.mongodb.com/cloud/atlas with database name = MantapFileMediaDB and collection name = Mantapjozzsaver. Klik Connect dan pilih 'Hubungkan aplikasi Anda'.copy tautan dan ganti "< password >" dengan kata sandi pengguna yang memiliki akses ke DB dan ganti "myFirstDatabase" untuk "MantapFileMediaDB". Kalau mau ubah sesuai keinginan nama databasenya ada di folder config. </br>
 <code>DOMAIN            :</code> Masukkan nama aplikasi Anda sesuai nama app heroku saja ex. mantapjozzgroup </br>
