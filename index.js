@@ -691,7 +691,7 @@ bot.command('unban',async(ctx)=>{
                                 ctx.reply(`${replyUsername} ${replyFromid} tidak diblokir, boleh masuk kembali!`,{
                                     reply_to_message_id: ctx.message.message_id
                                 })
-                                return bot.telegram.sendMessage(ctx.message.reply_to_message.from.id, `Anda tidak diblokir, boleh masuk kembali di ${ctx.message.chat.title}`)
+                                return bot.telegram.sendMessage(ctx.message.reply_to_message.from.id, `Anda tidak diblokir, silahkan masuk kembali di ${ctx.message.chat.title}`)
                             })
                         }
                     }else if(memberstatus.status == 'creator'){
@@ -709,10 +709,10 @@ bot.command('unban',async(ctx)=>{
                             //console.log(result)
                             let replyUsername = ctx.message.reply_to_message.from.username ? `@${ctx.message.reply_to_message.from.username}` : `${ctx.message.reply_to_message.from.first_name}`;
                             let replyFromid = ctx.message.reply_to_message.from.id ? `[${ctx.message.reply_to_message.from.id}]` : "";
-                            ctx.reply(`${replyUsername} ${replyFromid} tidak diblokir, boleh masuk kembali!`,{
+                            ctx.reply(`${replyUsername} ${replyFromid} tidak diblokir, silahkan masuk kembali!`,{
                                 reply_to_message_id: ctx.message.message_id
                             })
-                            return bot.telegram.sendMessage(ctx.message.reply_to_message.from.id, `Anda tidak diblokir, boleh masuk kembali di ${ctx.message.chat.title}`)
+                            return bot.telegram.sendMessage(ctx.message.reply_to_message.from.id, `Anda tidak diblokir, silahkan masuk kembali di ${ctx.message.chat.title}`)
                         })
                     }else{
                         if(ctx.from.username == 'GroupAnonymousBot'){
@@ -730,10 +730,10 @@ bot.command('unban',async(ctx)=>{
                                 //console.log(result)
                                 let replyUsername = ctx.message.reply_to_message.from.username ? `@${ctx.message.reply_to_message.from.username}` : `${ctx.message.reply_to_message.from.first_name}`;
                                 let replyFromid = ctx.message.reply_to_message.from.id ? `[${ctx.message.reply_to_message.from.id}]` : "";
-                                ctx.reply(`${replyUsername} ${replyFromid} tidak diblokir, boleh masuk kembali!`,{
+                                ctx.reply(`${replyUsername} ${replyFromid} tidak diblokir, silahkan masuk kembali!`,{
                                     reply_to_message_id: ctx.message.message_id
                                 })
-                                return bot.telegram.sendMessage(ctx.message.reply_to_message.from.id, `Anda tidak diblokir, boleh masuk kembali di ${ctx.message.chat.title}`)
+                                return bot.telegram.sendMessage(ctx.message.reply_to_message.from.id, `Anda tidak diblokir, silahkan masuk kembali di ${ctx.message.chat.title}`)
                             })
                         }
                     }
