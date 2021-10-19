@@ -1,4 +1,4 @@
-module.exports.bothelp = `Yoo, Guwe botnya Mantapjozz Channel. Untuk Join Group Vip PPV silahkan cek list dibawah. dan untuk owner Bot ini silahkan edit tulisan ini semua sesuai keinginan pada File help.js`;
+module.exports.bothelp = `Yoo, Guwe botnya dari Mantapjozz Channel. Untuk Join Group Vip PPV silahkan cek list dibawah. dan untuk owner Bot ini silahkan edit tulisan ini semua sesuai keinginan pada File help.js`;
 
 module.exports.botcommand = `<u>Berikut adalah beberapa perintah dan penggunaan admin.</u>
 \n\n<b>Kegunaan Nomor US untuk agar dapat mengakses Group/Channel Yang di banned dari Nomor indo.</b>
@@ -16,16 +16,16 @@ module.exports.botinstall = `<u>List Join Group Vip PPV / Full Genre Indo, asian
 \nJoin Vip Gudang Bokep
 \nGroup Vip Permanent
 \n==================
-\nGroup Full Indo : 35k
-\nGroup Full Asian : 35k
-\nGroup Full West : 35k
-\nGroup Vip PPV  : 50k
-\nNomor Luar / US : 35k
+\nGroup Full Indo : 50k
+\nGroup Full Asian : 50k
+\nGroup Full West : 50k
+\nGroup Vip PPV  : 65k
+\nNomor Luar / US : 45k
 \n==================
-\nGroup Full Indo, Asian , West : 100K
-\nGroup VIP PPV +  Nomor US = 75K
+\nGroup Full Indo, Asian , West : 200K
+\nGroup VIP PPV +  Nomor US = 100K
 \n==================
-\nGroup Full + PPV + Nomor Luar Negeri = 170K
+\nGroup Full + PPV + Nomor Luar Negeri = 250K
 \n==================
 \ninfo : untuk Group PPV Media 150k ++ dan butuh Nomor selain +62 untuk akses.
 \n================
