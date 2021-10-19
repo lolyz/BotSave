@@ -3,14 +3,14 @@
 	"description": "MantapSaverGroup",
 	"repository": "https://github.com/softmilkpc/MantapjozzSaverGroup",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg",
-	"keywords": ["telegram","filesaver","bot","nodejs"],
+	"keywords": ["telegram","filesavers","bot","nodejs"],
 	"env": {
         "TOKEN": {
             "description": "Token bot disediakan oleh  @botfather",
             "value":""
         },
         "DOMAIN":{
-            "description": "Masukkan nama aplikasi Anda",
+            "description": "Masukkan nama aplikasi heroku Anda",
             "value": ""
         },
         "DB_URL":{
