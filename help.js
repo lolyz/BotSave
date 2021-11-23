@@ -13,6 +13,7 @@ module.exports.botinstall = `<u>List Join Group Vip PPV / Full Genre Indo, asian
 \nJoin Vip Gudang Bokep
 \nGroup Vip Permanent
 \n==================
+\nGroup BOCIL : 100K
 \nGroup Full Indo : 50k
 \nGroup Full Asian : 50k
 \nGroup Full West : 50k
