@@ -1,4 +1,4 @@
-module.exports.bothelp = `Yoo, Guwe botnya dari Mantapjozz Channel. Untuk Join Group Vip PPV silahkan cek list dibawah. dan untuk owner Bot ini silahkan edit tulisan ini semua sesuai keinginan pada File help.js`;
+module.exports.bothelp = `Yoo, Guwe botnya dari Lagi Viral Channel. Untuk Join Group Vip PPV silahkan cek list dibawah. dan untuk owner Bot ini silahkan edit tulisan ini semua sesuai keinginan pada File help.js`;
 
 module.exports.botcommand = `<u>Berikut adalah beberapa perintah dan penggunaan admin.</u>
 \n\n<b>Kegunaan Nomor US untuk agar dapat mengakses Group/Channel Yang di banned dari Nomor indo.</b>
@@ -36,10 +36,10 @@ module.exports.botinstall = `<u>List Join Group Vip PPV / Full Genre Indo, asian
 `;
 
 module.exports.botorder = `<u>Suka sama BOT gini ? mau punya yang sama gini ?</u>
-\nKuy langsung Chat admin untuk Order ataupun untuk source Gratisnya.
+\nKuy langsung Chat admin untuk Order.
 \n================
 \nKalau Mau tinggal beres langsung chat admin.
 \n================
 \nOrder Bot silahkan chat admin👇
-\nadmin : <a href="http://t.me/xlolyz">LoLyz</a>.
+\nadmin : <a href="http://t.me/xlolyz">LoLyz</a>
 `;
