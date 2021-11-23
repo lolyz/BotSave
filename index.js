@@ -73,7 +73,7 @@ function messagelink(ctx){
     return `Kirim BOT video, photo dan dokumen.`;
 }
 function documentation(ctx){
-    return `List Channel Mantapjozz\nChannel : <a href="t.me/mantapvids">Mantapvids</a>\nChannel : <a href="https://t.me/mantapfilestorage">Mantap Streaming Bot</a>\nGroup Chat : <a href="https://t.me/joinchat/Ssws183am-adKXlP">Free Tele Chat</a>\nWebsite : <a href="https://doujindes.blogspot.com">Doujindesu</a>`;
+    return `List Channel Lagi Viral\nChannel : <a href="t.me/lgviral">Lagi Viral</a>\nChannel : <a href="https://t.me/terviral">TerViral</a>\nGroup Chat : <a href="https://t.me/LgViralChat">Free Tele Chat</a>\nWebsite : <a href="https://komikindo.me">Komikindo</a>`;
 }
 
 
